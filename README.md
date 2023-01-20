@@ -1,2 +1,2 @@
 # My-CV
-This CV is completely made in HTML only & Almost all topics are Coverd.
+This CV is completely made in HTML only & Almost all topics are Covered.
